@@ -1,0 +1,12 @@
+check,resolution,relative_error
+Finite volume radial refinement,30,0.0014642023069411968
+Finite volume radial refinement,60,0.0003653245780516877
+Finite volume radial refinement,120,9.103484466153436e-05
+Finite volume radial refinement,240,2.2489205432237815e-05
+Finite volume radial refinement,480,5.354469130554158e-06
+Finite volume radial refinement,960,1.0708892986091108e-06
+Bessel modal truncation,4,6.123170777279484e-07
+Bessel modal truncation,8,4.0600841007274777e-07
+Bessel modal truncation,16,3.6416575641440194e-07
+Bessel modal truncation,40,3.5745153331828615e-07
+Bessel modal truncation,80,3.570229988164272e-07
